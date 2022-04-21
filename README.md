@@ -1,8 +1,7 @@
-# PYTHON_dshurko
-## magicgenerator
+# magicgenerator
 Console utility to generate test data.
 
-### Getting Started
+## Getting Started
 
 To Create the virtual environment and install the packages:
 ```bash
